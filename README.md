@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-<a href="https://github.com/rinusho/hikari"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hikari-dark.svg"><img src="assets/project-hikari-light.svg" width="49%" alt="hikari"></picture></a>
-
 <a href="https://metawka.github.io/expressive-profile/?from=rinusho"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
